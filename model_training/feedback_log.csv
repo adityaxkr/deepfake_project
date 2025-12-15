@@ -1,0 +1,12 @@
+timestamp,filename,predicted_label,confidence,was_correct,correct_label,comment
+2025-06-14 16:11:37,131858.jpg,Fake,1.0,Yes,,yes its real
+2025-06-14 16:32:35,131858.jpg,Real,1.0,Yes,,yes its real
+2025-06-14 16:45:16,000038.jpg,Real,1.0,Yes,,
+2025-06-14 16:47:47,000038.jpg,Real,1.0,Yes,,
+2025-06-14 16:50:47,000038.jpg,Real,1.0,Yes,,
+2025-06-14 16:59:44,000002.jpg,Real,1.0,Yes,N/A,
+2025-06-14 17:07:55,000002.jpg,Real,1.0,Yes,N/A,
+2025-06-14 18:16:30,037789.jpg,Real,1.0,Yes,N/A,Yes its correct
+2025-06-14 18:17:18,test_0055.jpg,Fake,1.0,Yes,N/A,Yes its correct
+2025-06-14 18:19:50,037789.jpg,Real,1.0,Yes,N/A,Yes its correct
+2025-06-14 18:20:37,test_0055.jpg,Fake,1.0,Yes,N/A,Yes its correct
