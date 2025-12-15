@@ -116,8 +116,7 @@ Each uploaded image contributes a **high-dimensional feature vector** extracted 
 ## 🙇‍♂️ Author
 
 **Aditya Kumar**
-📧 [adityakumar@example.com](mailto:aditya_202300518@smit.smu.edu.in_)
-🏆 Participant: YUKTI Innovation Challenge 2025
+📧 [aditya_202300518@smit.smu.edu.in]
 🔗 [LinkedIn](https://linkedin.com/in/adityax.kr) · [GitHub](https://github.com/adityaxkr)
 
 ---
